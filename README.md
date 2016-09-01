@@ -1,2 +1,2 @@
 # awsec2
-Possibilities recover ec2 with problems the access SSH
+Possibilities of recover at ec2 with problems of access SSH.
